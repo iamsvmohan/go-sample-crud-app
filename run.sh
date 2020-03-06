@@ -1,0 +1,1 @@
+DB_NAME=customer DB_PASS=root DB_HOST=localhost DB_PORT=3306 go run main.go
